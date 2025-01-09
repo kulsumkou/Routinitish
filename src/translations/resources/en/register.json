@@ -1,0 +1,17 @@
+{
+    "createAccount": "Create Account",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "termText": "By pressing “Create account”, I agree to GoGetterGirl",
+    "termsofservice": "Terms of service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "continue": "or continue with",
+    "google": "Google",
+    "apple": "Apple",
+    "alreadyAccount": "Already have an account?",
+    "login": "Log in"
+}
